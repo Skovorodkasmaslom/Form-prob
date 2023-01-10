@@ -1,0 +1,22 @@
+Array
+(
+    [lastname] => Шадурский
+    [firstname] => Александр
+    [patronymic] => Евгеньевич
+    [email] => skovorodkasmaslom@gmail.com
+    [pass] => 123qwe
+    [confpass] => 123qwe
+    [done] => Отправить
+)
+ 
+Array
+(
+    [lastname] => Шадурский
+    [firstname] => Александр
+    [patronymic] => Евгеньевич
+    [email] => skovorodkasmaslom@gmail.com
+    [pass] => 123qwe
+    [confpass] => 123qwe
+    [done] => Отправить
+)
+ 
