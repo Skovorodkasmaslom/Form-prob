@@ -7,6 +7,7 @@ $lastname = $firstname = $patronymic = $email = $pass = $confpass = "";
 $errors = [];
 
 $success = "";
+
 $denied = "";
 
 //проверка отправки на сервер данных методом ПОСТ
