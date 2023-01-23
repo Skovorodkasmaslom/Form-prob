@@ -60,6 +60,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST'){
         $confpass = $_POST['confpass'];
     }
 }
+
 //запись данных в файл и информирование об успехе
 if(isset($_POST['done']) && empty($errors)){
     $formdata = print_r($_POST, true);
